@@ -12,5 +12,9 @@
   "bugs": {
     "url": "https://github.com/eredisg/tagged.gg/issues"
   },
-  "homepage": "https://github.com/eredisg/tagged.gg#readme"
+  "homepage": "https://github.com/eredisg/tagged.gg#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  }
 }
